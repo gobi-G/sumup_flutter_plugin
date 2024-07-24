@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 
 android {
     
-    namespace "io.purplesoft.sumup_example"
+    namespace "io.purplesoft.sumup"
     
     compileSdk 33
     
